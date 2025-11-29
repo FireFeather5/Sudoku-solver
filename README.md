@@ -6,8 +6,6 @@
 
 Solveur de sudoku créé en MIPS32, capable de retourner la ou les solution(s) de remplissage d'une grille passée dans un fichier texte.
 
-<!-- image(s) -->
-
 ## Technologies utilisées
 
 **Langage :** Assembleur (MIPS 32)
@@ -28,7 +26,7 @@ Pour modifier la grille de sudoku à résoudre, modifier le fichier `grille.txt`
 
 Lancer l'application Mars dans le même répertoire :
 ```bash
-commande
+java -jar 'nom application'
 ```
 
 Ouvrir le fichier `SudokuSolver.asm` dans Mars.
